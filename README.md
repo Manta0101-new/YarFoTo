@@ -18,3 +18,4 @@ and time needed matches the initial information found.
 Still coding..
 ***1-15-19 -update****
 Initial coding and testing completed. Will post code later. 
+this was relased at the same time KAPE was created and published. I am keeping it for posterity for anyone that wants to use it.
